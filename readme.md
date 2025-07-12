@@ -1,59 +1,65 @@
-# E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
+# 🎓 E-Learning Website
 
-![E-Learning Website](preview.jpg)
+This is a responsive E-learning platform built using **HTML**, **CSS**, **SCSS**, and **JavaScript**. It provides a modern UI/UX experience and allows users to access both **free** and **paid courses** across various subjects. This project was built as part of a frontend development practice to improve design, layout, and interactivity skills.
 
-The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
+---
 
+## 🚀 Features
 
-## Introduction
+- ✅ Explore free and premium (paid) courses
+- ✅ Course detail pages with enrollment option
+- ✅ Fully responsive design for all devices
+- ✅ Clean UI using SCSS for modular styling
+- ✅ Smooth animations and interactive elements
 
-Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+---
 
-## Features
+## 💻 Tech Stack
 
-- Responsive design using Bootstrap 5.
-- Structured course catalog with detailed descriptions.
-- Interactive lessons.
-- User can register and login.
-- User authentication for personalized learning experiences.
-- Instructor application form.
-- User can also contact us.
+- HTML5
+- CSS3
+- SCSS
+- JavaScript (Vanilla)
+- Git & GitHub
+- Visual Studio Code
 
-## Getting Started
+---
 
-### Prerequisites
-
-Before you begin, ensure you have the following prerequisites:
-
-- Web browser (e.g., Chrome, Firefox, Safari)
-- Text editor (e.g., Visual Studio Code, Sublime Text)
-
-### Installation
+## 🧪 How to Run Locally
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
+   git clone https://github.com/ashwanisingh-07/E-Learning-Website.git
 
-2. Open the project in your preferred text editor.
-3. Launch the `index.html` file in a web browser.
+   ```
 
-## Technologies Used
+2. Navigate into the project folder:
+   cd E-Learning-Website
 
-- HTML
-- CSS
-- Bootstrap 5
-- JavaScript
+3. Open index.html in your browser or use Live Server in VS Code.
 
-📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
+🧠 Future Improvements
 
-## Contributing 
+- User login & signup functionality
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+- Admin panel to upload and manage courses
 
-## Show your support 
+- Payment gateway integration
 
-Give a ⭐️ if you like this project!
+- Course search and filtering
 
+---
+
+👨‍💻 Author
+
+Ashwani Singh
+
+GitHub: ashwanisingh-07
+
+Email: ashwanising445@gmail.com
+
+---
 
 ## License
 
